@@ -22,6 +22,8 @@ One of my favorite labs is lab 1 because it was the first time I had used a comp
 
 
 Lab 5
+
+
 Lab 5 is another one of my favorite labs because I enjoyed the complexity of the lab. It was one of the first where I ran into trouble pushing the lab. I enjoyed attempting to clear any errors that occurred.
 
 
